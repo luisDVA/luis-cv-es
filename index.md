@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Luis D. Verde Arregoitia
 ---
 # Luis D. Verde Arregoitia
 Mammalogy, Macroecology, Conservation, Data Organization and Visualization
@@ -32,8 +32,8 @@ __Universidad Austral de Chile, Chile. Postdoctoral Researcher__
 
 ## Other
 
-Member, *IUCN SSC Small Mammal Specialist Group*
-Investigador NAcional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
+Member, *IUCN SSC Small Mammal Specialist Group*  
+Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
 
 ## Publications
 

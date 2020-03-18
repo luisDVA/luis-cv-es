@@ -10,7 +10,7 @@ Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 | <a href="https://www.liomys.mx">Personal Website</a>
 </div>
 
-### Research interests
+## Research interests
 
 Collections-based research, ecomorphology of bats and rodents, data sharing, conservation biology, R programming
 

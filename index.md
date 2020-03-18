@@ -32,14 +32,14 @@ _Universidad Austral de Chile, Chile_. Postdoctoral Researcher
 
 ## Other
 
-Member, *IUCN SSC Small Mammal Specialist Group*  
+Member, IUCN SSC Small Mammal Specialist Group  
 Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
 
 ## Publications
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 
-### Software
+## Software
 
 `2020`
 unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)
@@ -47,5 +47,3 @@ unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](ht
 <!-- ### Footer
 
 Last updated: March 2020 -->
-
-

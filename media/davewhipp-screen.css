@@ -19,7 +19,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 200%;
+	font-size: 110%;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -123,7 +123,7 @@ h1,h2,h3,h4 {
 h1 {
 	text-align: left;
 	font-size: 3em;
-	line-height: 1em;
+	line-height: 3em;
 	position: relative;
 	left: 25%;
 }
@@ -137,7 +137,7 @@ h1+p {
 h2 {
 	font-size: 2em;
 	color: #bc412b;
-	margin-top: 3em;
+	margin-top: 2em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -168,7 +168,7 @@ a:hover {
 	left: 25%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 160%;
+	font-size: 120%;
 }
 
 #webaddress a {

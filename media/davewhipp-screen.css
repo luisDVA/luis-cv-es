@@ -93,16 +93,16 @@ ul {
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	padding-left: 1.2em;
+	text-indent: -1.2em;
 	/*color: #777;*/
 }
 
@@ -121,7 +121,7 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.5em;
 	line-height: 1em;
 	position: relative;
 	left: 25%;
@@ -167,7 +167,7 @@ a:hover {
 	left: 25%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+	font-size: 90%;
 }
 
 #webaddress a {

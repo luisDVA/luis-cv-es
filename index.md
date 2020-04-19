@@ -5,9 +5,8 @@ title: CV Luis D. Verde Arregoitia
 # Luis D. Verde Arregoitia
 Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 <div id="webaddress">
-<a href="luis@liomys.mx">luis@liomys.mx</a>
-| <a href="https://www.liomys.mx">Personal Website</a>
-</div>
+<a href="mailto:luis@liomys.mx">luis@liomys.mx</a>
+| <a href="https://www.liomys.mx">Personal Website</a></div>
 
 ## Research interests
 
@@ -20,7 +19,6 @@ Universidad Nacional Autónoma de México, Mexico. __BSc - Biology__
 
 `2010-2014`
 University of Queensland, Australia. __PhD - Biological Sciences__
-
 ## Work
 
 `2015-2016`
@@ -28,17 +26,14 @@ Naturhistorisches Museum Bern, Switzerland. __Postdoctoral Research Fellow__
 
 `2017-2020`
 Universidad Austral de Chile, Chile. __Postdoctoral Researcher__
-
 ## Other
 `-`
 Member, *IUCN SSC Small Mammal Specialist Group* 
 `-`
 Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
-
 ## Publications
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
-
 ### Software
 
 ` - `

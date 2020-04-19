@@ -41,4 +41,4 @@ annotater,  addins for RStudio, Package Version 0.1.1 [https://github.com/luisDV
     
 <br>
 
-Last updated: April 2020
+### Last updated: April 2020

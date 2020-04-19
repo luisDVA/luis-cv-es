@@ -53,7 +53,7 @@ table {
 body {
 	font: normal normal 400;
 	font-size: 90%;
-	line-height: 1em;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
 	margin-top: 1em;
@@ -181,7 +181,7 @@ download {
 	margin-top: 1em;
 	position: relative;
 	left: 33%;
-	color: #FFD700;
+	color: #DAA520;
 	font-family: Gill Sans,monospace,sans-serif;
 	font-size: 120%;
 }

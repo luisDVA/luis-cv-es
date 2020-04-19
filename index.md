@@ -30,8 +30,9 @@ __Naturhistorisches Museum Bern, Switzerland. Postdoctoral Research Fellow.__
 __Universidad Austral de Chile, Chile. Postdoctoral Researcher__
 
 ## Other
-
+`-`
 __Member, *IUCN SSC Small Mammal Specialist Group*__  
+`-`
 __Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico)__ 
 
 ## Publications
@@ -42,7 +43,8 @@ __Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacio
 
 `2020`
 unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)
-
+`2019`
+annotater addins for RStudio, Package Version 0..1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
 
 <!-- ### Footer
 

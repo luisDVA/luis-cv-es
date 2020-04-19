@@ -52,7 +52,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 80%;
+	font-size: 90%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -131,7 +131,7 @@ h2 {
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	top: 1em;
 	text-align: right;
 	width: 20%;
 }
@@ -168,7 +168,7 @@ a:hover {
   z-index: 100;
 }
 
-#download {
+download {
   display: block;
   float: left;
   color: white;

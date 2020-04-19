@@ -113,13 +113,15 @@ h1,h2,h3,h4 {
 h1 {
 	text-align: left;
 	font-size: 3em;
+	color: #00008B
 	line-height: 1em;
 	position: relative;
-	left: 13%;
+	left: 25%;
 }
 
 h1+p {
 	/*subtitle*/
+	margin-top: 1em;
 	font-style: italic;
 	font-size: 110%;
 }

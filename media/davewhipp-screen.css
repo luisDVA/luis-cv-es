@@ -70,9 +70,9 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 95%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
+	font-family: Gill Sans,monospace,sans-serif;
 	color: #aaa;
 }
 
@@ -180,8 +180,8 @@ a:hover {
 	position: relative;
 	left: 33%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
-	font-size: 80%;
+	font-family: Gill Sans,monospace,sans-serif;
+	font-size: 100%;
 }
 
 #webaddress a {

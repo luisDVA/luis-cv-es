@@ -4,7 +4,6 @@ title: CV Luis D. Verde Arregoitia
 ---
 # Luis D. Verde Arregoitia
 Mammalogy, Macroecology, Conservation, Data Organization and Visualization
-
 <div id="webaddress">
 <a href="luis@liomys.mx">luis@liomys.mx</a>
 | <a href="https://www.liomys.mx">Personal Website</a>
@@ -12,7 +11,7 @@ Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 
 ### Research interests
 
-Collections-based research, ecomorphology of bats and rodents, data sharing, conservation biology, R programming.
+Collections-based research, ecomorphology of bats and rodents, biodiversity data science, data sharing, conservation biology, R programming.
 
 ## Education
 
@@ -32,8 +31,8 @@ __Universidad Austral de Chile, Chile. Postdoctoral Researcher__
 
 ## Other
 
-Member, *IUCN SSC Small Mammal Specialist Group*  
-Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
+__Member, *IUCN SSC Small Mammal Specialist Group*__  
+__Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico)__ 
 
 ## Publications
 
@@ -47,6 +46,4 @@ unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](ht
 
 <!-- ### Footer
 
-Last updated: March 2020 -->
-
-
+Last updated: April 2020 -->

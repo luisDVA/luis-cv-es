@@ -52,7 +52,7 @@ table {
 
 
 body {
-	font: normal normal 400;
+	font: normal normal 380;
 	font-size: 100%;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
@@ -114,7 +114,7 @@ li ul {
 }
 
 h1,h2,h3,h4 {
-	font-weight: 400;
+	font-weight: 380;
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }

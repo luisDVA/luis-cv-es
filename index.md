@@ -26,7 +26,7 @@ __University of Queensland, Australia. PhD - Biological Sciences__
 `2015-2016`
 __Naturhistorisches Museum Bern, Switzerland. Postdoctoral Research Fellow.__
 
-`2070-2020`
+`2017-2020`
 __Universidad Austral de Chile, Chile. Postdoctoral Researcher__
 
 ## Other

@@ -31,7 +31,7 @@ Member, *IUCN SSC Small Mammal Specialist Group*
 Investigador Nacional Nivel I. __Sistema Nacional de Investadores__ (CONACyT, Mexico)
 ## Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
-### Software
+## Software
 ` - `
 unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
 

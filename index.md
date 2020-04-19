@@ -37,8 +37,8 @@ unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](ht
 
 ` - `
 annotater,  addins for RStudio, Package Version 0.1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
+  
+    
 <br>
 
-<-- ### Footer
-
-Last updated: April 2020 -->
+Last updated: April 2020

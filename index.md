@@ -11,7 +11,6 @@ Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 ## Research interests
 
 Collections-based research, ecomorphology of bats and rodents, biodiversity data science, data sharing, conservation biology, R programming.
-
 ## Education
 
 `2004-2009`
@@ -20,7 +19,6 @@ Universidad Nacional Autónoma de México, Mexico. __BSc - Biology__
 `2010-2014`
 University of Queensland, Australia. __PhD - Biological Sciences__
 ## Work
-
 `2015-2016`
 Naturhistorisches Museum Bern, Switzerland. __Postdoctoral Research Fellow__
 
@@ -28,14 +26,12 @@ Naturhistorisches Museum Bern, Switzerland. __Postdoctoral Research Fellow__
 Universidad Austral de Chile, Chile. __Postdoctoral Researcher__
 ## Other
 `-`
-Member, *IUCN SSC Small Mammal Specialist Group* 
+Member, *IUCN SSC Small Mammal Specialist Group*   
 `-`
-Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
+Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico)
 ## Publications
-
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ### Software
-
 ` - `
 unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
 

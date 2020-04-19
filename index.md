@@ -9,7 +9,7 @@ Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 | <a href="https://www.liomys.mx">Personal Website</a>
 </div>
 
-### Research interests
+## Research interests
 
 Collections-based research, ecomorphology of bats and rodents, biodiversity data science, data sharing, conservation biology, R programming.
 
@@ -19,7 +19,7 @@ Collections-based research, ecomorphology of bats and rodents, biodiversity data
 __Universidad Nacional Autónoma de México, Mexico. BSc Biology.__
 
 `2010-2014`
-__University of Queensland, Australia__
+__University of Queensland, Australia. PhD - Biological Sciences__
 
 ## Work
 
@@ -41,10 +41,10 @@ __Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacio
 
 ### Software
 
-`2020`
+` - `
 unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
 
-`2019`
+` - `
 annotater addins for RStudio, Package Version 0..1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
 
 <!-- ### Footer

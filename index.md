@@ -36,7 +36,7 @@ __Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacio
 
 ## Publications
 
-<!-- [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en) -->
+[Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 
 ### Software
 

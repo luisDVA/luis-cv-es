@@ -16,24 +16,24 @@ Collections-based research, ecomorphology of bats and rodents, biodiversity data
 ## Education
 
 `2004-2009`
-__Universidad Nacional Autónoma de México, Mexico. BSc Biology.__
+Universidad Nacional Autónoma de México, Mexico. __BSc - Biology__
 
 `2010-2014`
-__University of Queensland, Australia. PhD - Biological Sciences__
+University of Queensland, Australia. __PhD - Biological Sciences__
 
 ## Work
 
 `2015-2016`
-__Naturhistorisches Museum Bern, Switzerland. Postdoctoral Research Fellow.__
+Naturhistorisches Museum Bern, Switzerland. __Postdoctoral Research Fellow__
 
 `2017-2020`
-__Universidad Austral de Chile, Chile. Postdoctoral Researcher__
+Universidad Austral de Chile, Chile. __Postdoctoral Researcher__
 
 ## Other
 `-`
-__Member, *IUCN SSC Small Mammal Specialist Group*__  
+Member, *IUCN SSC Small Mammal Specialist Group* 
 `-`
-__Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico)__ 
+Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacional de Ciencia y Tecnología (CONACyT, Mexico) 
 
 ## Publications
 
@@ -45,7 +45,7 @@ __Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacio
 unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
 
 ` - `
-annotater addins for RStudio, Package Version 0..1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
+annotater,  addins for RStudio, Package Version 0.1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
 
 <!-- ### Footer
 

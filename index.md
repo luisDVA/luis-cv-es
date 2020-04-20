@@ -28,7 +28,7 @@ Universidad Austral de Chile, Chile. __Postdoctoral Researcher__
 `-`
 Member, *IUCN SSC Small Mammal Specialist Group*   
 `-`
-Investigador Nacional Nivel I. __Sistema Nacional de Investadores__ (CONACyT, Mexico)
+Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, Mexico)
 ## Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ## Software

@@ -10,7 +10,7 @@ Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 
 ## Research interests
 
-Collections-based research, ecomorphology of bats and rodents, biodiversity data science, data sharing, conservation biology, R programming.
+Collections-based research, ecomorphology of bats and rodents, biodiversity data science, data sharing, conservation biology, phylogenetic comparative methods, R programming.
 ## Education
 
 `2004-2009`

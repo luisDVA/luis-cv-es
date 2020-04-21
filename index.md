@@ -38,7 +38,8 @@ unheadr, Paquete para R Version 0.2.1 [https://cran.r-project.org/package=unhead
 ` - `
 annotater, extensiones para RStudio Version 0.1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
   
-    
+`-`
+NBA shot preferences, [aplicación de Shiny](https://luisdva.shinyapps.io/NBA-shot-overlap/) para datos espaciales de la NBA  
 <br>
 
 ### Actualizado: Abril de 2020

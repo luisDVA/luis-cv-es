@@ -14,7 +14,7 @@ Colecciones científicas, ecomorfología de roedores y murciélagos, informátic
 ## Educación
 
 `2004-2009`
-Universidad Nacional Autónoma de México, Mexico. __Biólogo__
+Universidad Nacional Autónoma de México, México. __Biólogo__
 
 `2010-2014`
 University of Queensland, Australia. __Doctorado en Ciencias Biológicas__
@@ -30,7 +30,7 @@ Miembro, *IUCN SSC Small Mammal Specialist Group*
 `-`
 Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, Mexico)
 ## Publicaciones
-[Perfil de Google Scholar](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
+[Perfil de Google Académico](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ## Software
 ` - `
 unheadr, Paquete para R Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  

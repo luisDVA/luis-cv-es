@@ -33,13 +33,10 @@ Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, 
 [Perfil de Google Académico](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ## Software
 ` - `
-unheadr, Paquete para R Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
+unheadr, Paquete para R Version 0.3.0 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
 
 ` - `
-annotater, extensiones para RStudio Version 0.1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
+annotater, extensiones para RStudio Version 0.1.3 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
   
-`-`
-NBA shot preferences, [aplicación de Shiny](https://luisdva.shinyapps.io/NBA-shot-overlap/) para datos espaciales de la NBA  
-<br>
 
-### Actualizado: Abril de 2020
+### Actualizado: Octubre de 2020

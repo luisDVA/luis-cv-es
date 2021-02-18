@@ -28,9 +28,9 @@ Universidad Austral de Chile, Chile. __Posdoctorado__
 `-`
 Miembro, *IUCN SSC Small Mammal Specialist Group*   
 `-`
-Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, Mexico)
+Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, Mexico)  
 `-`
-Instructor Certificado por [RStudio](https://education.rstudio.com/trainers/people/verde_arregoitia+luis/)
+Instructor Certificado por [RStudio](https://education.rstudio.com/trainers/people/verde_arregoitia+luis/)  
 ## Publicaciones
 [Perfil de Google Académico](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ## Software

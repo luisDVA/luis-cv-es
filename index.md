@@ -41,4 +41,4 @@ unheadr, Paquete para R Version 0.3.1 [https://cran.r-project.org/package=unhead
 annotater, extensiones para RStudio Version 0.1.3 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
   
 
-### Actualizado: Febrero de 2020
+### Actualizado: Febrero de 2021
